@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adityakumar12xyz.github.io/portfolio/sitemap.xml
